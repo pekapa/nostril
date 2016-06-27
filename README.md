@@ -10,6 +10,7 @@ This is done using the module instance or the module name with the following com
 
 # Options
 Alongside with the package name a serie of keyworded arguments can be passed, such as:
+
 1. `cover=True` in order to include cover coverage to the tests.
 
   1.1. `html=True` in order to include coverage and output it to html.
